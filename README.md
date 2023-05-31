@@ -3,4 +3,5 @@ DaVinci OS - LLM-based intelligent, friendly and creative mastery operating syst
 
 Developed by Matt McDonagh https://www.linkedin.com/in/matthewmcdonagh/
 
-©2023 McDonagh Ventures, LLC - A Delaware Registered Limited Liability Company
+©2023 McDonagh Ventures, LLC
+A Delaware Registered Limited Liability Company
